@@ -1,28 +1,4 @@
-/*
 
- Card(
-                color: Colors.white,
-                shape: const RoundedRectangleBorder(),
-                child: Column(
-                  children: [
-                    Padding(
-                      padding: const EdgeInsets.all(40.0),
-                      child: Column(
-                        children: [
-                          Container(
-                            color: Colors.grey.shade300,
-                            width: double.infinity,
-                            padding: const EdgeInsets.all(20),
-                            child: Image.network(
-                              "https://parspng.com/wp-content/uploads/2023/06/watchpng.parspng.com-8.png",
-                              fit: BoxFit.cover,
-                            ),
-                          ),
-
-
-
-
- */
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
